@@ -131,6 +131,9 @@ The goal of our analysis is to create different models to see which one is the b
 https://public.tableau.com/app/profile/luis.santamaria2414/viz/RedandWhiteWineDataExploration/Story1
 
 ## Conclusion 
+In conclusion the models calculated with the age column are the best because creating the age column allows for the machine to have another concrete item to take into account. We have determined that logistic regression model was the best when predicting the price of white and red wines.
+
+The logistic regression model did a much better job at predicting the price over predicting the rating. 
 
 ## Credits
 Team responsible for the formation of this project:
