@@ -2,7 +2,7 @@
 source: https://www.kaggle.com/datasets/budnyak/wine-rating-and-price
 
 ## Goal Of Analysis 
-The goal of our analysis is to create different models to see which one is the best at predicting the best wines. We ran multiple models with the dependent variable varying between Price, Ratings, and Age. Our goal is to see which is the best predictor. Below are the results that we were able to achieve in our code.
+The goal of our analysis is to create different models to see which one is the best at predicting the best wines. We ran multiple models with the dependent variable varying between Price, Ratings, and Age. Our goal is to see which is the best predictor. Below are the results that we were able to achieve in our analysis.
 
 ## Logistic Regression Red Wine
 - **Y Variable:** Price
@@ -134,6 +134,7 @@ https://public.tableau.com/app/profile/luis.santamaria2414/viz/RedandWhiteWineDa
 
 ## Credits
 Team responsible for the formation of this project:
+##
 Kiana Talavera: (https://github.com/talaverak)
 
 Luis Santamaria: (https://github.com/lsantama3)
